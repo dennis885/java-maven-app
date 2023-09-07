@@ -1,4 +1,4 @@
-# Full CI/CD Pipline of a Java Maven App
+# Full CI/CD Pipeline of a Java Maven App
 - The following project is built upon a cloned Git repository from a DevOps course I've been working on my free time.
 - The purpose of the project is to show the workflow process on how to build a full CI/CI Pipeline of an application from scratch
 ## java-maven-app
